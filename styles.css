@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-2492.jpg?size=626&ext=jpg&ga=GA1.1.998737667.1709174872&semt=ais);
+    width: fit-content;
+    height: auto;
+}
+.main-headings, .sub-headings, div.recipes {
+    background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-background_58702-2685.jpg?size=626&ext=jpg&ga=GA1.1.998737667.1709174872&semt=ais);
+    color: black;
+    text-align: center;
+    width: fit-content;
+    height: auto;
+    border: solid black;
+    border-width: 2px;
+}
